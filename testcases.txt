@@ -1,0 +1,11 @@
+ls -i -a &t
+cat -E -n ls.c
+date -u -R 
+mkdir -v foo &t
+rm -d -i foo 
+mkdir -p bar/golf 
+cd bar 
+rm -v -d golf &t
+pwd -P 
+cd -
+
